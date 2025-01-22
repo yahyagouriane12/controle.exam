@@ -1,0 +1,114 @@
+.head1{
+    align-items: center;
+    border: #3C3C3C;
+    width: 1440px;
+    height: 106px;
+    top: 44px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid black;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  display: flex;
+  justify-content: space-between;
+  
+  }
+  .active{
+      font-family: Lato;
+      font-size: 20px;
+      font-weight: 300;
+      line-height: 24px;
+      color: #3C3C3C;
+  }
+  .face{
+      width: 928px;
+      height: 590px;
+      top: 507px;
+      left: 27px;
+      gap: 0px;
+      border: 1px 0px 0px 0px;
+      opacity: 0px;
+      border: 1px solid #3C3C3C;
+      scale: crop;
+  }
+  .P1{
+      font-family: Lato;
+      font-size: 20px;
+      font-weight: 300;
+      line-height: 28px;
+      text-align: left;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+  }
+  .P2{
+      font-family: Lato;
+      font-size: 20px;
+      font-weight: 300;
+      line-height: 24px;
+      text-align: left;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+  }
+  .hand{
+      width: 455px;
+      height: 358px;
+      top: 149px;
+      left: 957px;
+      gap: 0px;
+      border: 1px 0px 0px 0px;
+      opacity: 0px;
+      filter: grayscale(100%);
+      border: 1px solid #000000;
+  }
+  .symbol2{
+      position: absolute;
+      width: 455px;
+      height: 798px;
+      top: 149px;
+      left: 957px;
+      gap: 0px;
+      border: 1px 0px 0px 0px;
+      opacity: 0px;
+  }
+  .divsym{
+      width: Hug (394px)px;
+      height: Hug (410px)px;
+      top: 537px;
+      left: 986px;
+      gap: 20px;
+      opacity: 0px;
+  }
+  .symbh2{
+      font-family: Lancelot;
+      font-size: 49px;
+      font-weight: 400;
+      line-height: 65px;
+      text-align: left;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+  }
+  .Peaceh1{
+      font-family: Lancelot;
+      font-size: 61px;
+      font-weight: 400;
+      line-height: 65px;
+      text-align: left;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+      width: 850px;
+      height: 129px;
+      gap: 0px;
+      opacity: 0px;
+  }
+  .Peace1{
+      width: 928px;
+      height: 923px;
+      top: 174px;
+      left: 27px;
+      gap: 0px;
+      border: 1px 0px 0px 0px;
+      opacity: 0px;
+  }
+
+
